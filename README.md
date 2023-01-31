@@ -8,3 +8,7 @@ create table internalmarks with columns ROLLNO(VARCHAR),SUBJECT(VARCHAR),CAT1(NU
 insert some users into users table||      
 change admin.php rollno's according to your requirement||     
 DONE
+
+
+https://user-images.githubusercontent.com/33175083/215819245-3882a9c9-8bc9-428f-a505-5632ac0303eb.mp4
+
